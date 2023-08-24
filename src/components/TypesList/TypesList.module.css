@@ -1,0 +1,9 @@
+
+
+
+.types_list{
+    display: flex;
+    margin: 10px auto 0;
+    width: 96%;
+    flex-wrap: wrap;
+}

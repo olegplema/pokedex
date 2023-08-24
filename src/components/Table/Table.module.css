@@ -1,0 +1,32 @@
+
+.table {
+    width: 100%;
+    border-collapse: collapse;
+    /*border: 1px solid black;*/
+    margin-top: 10px;
+    border: 1px solid transparent
+}
+
+.row, .col{
+    border: 1px solid black;
+    padding: 1px;
+}
+
+.col{
+    border-bottom: 0;
+    border-top: 0;
+    border-right: 0;
+}
+
+.first_col{
+    width: 80%;
+    border-right: 0;
+}
+
+.second_col{
+    /*width: 20%;*/
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
