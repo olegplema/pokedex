@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/olegplema/pokedex/static/css/main.545f6bbc.css",
+    "main.js": "/olegplema/pokedex/static/js/main.a254d0c7.js",
+    "static/js/787.7e0b23c5.chunk.js": "/olegplema/pokedex/static/js/787.7e0b23c5.chunk.js",
+    "static/media/futura_medium.ttf": "/olegplema/pokedex/static/media/futura_medium.4e762c29ef7b44ca51cb.ttf",
+    "static/media/futura_light_font.ttf": "/olegplema/pokedex/static/media/futura_light_font.e07bb8557f02892be46b.ttf",
+    "index.html": "/olegplema/pokedex/index.html",
+    "main.545f6bbc.css.map": "/olegplema/pokedex/static/css/main.545f6bbc.css.map",
+    "main.a254d0c7.js.map": "/olegplema/pokedex/static/js/main.a254d0c7.js.map",
+    "787.7e0b23c5.chunk.js.map": "/olegplema/pokedex/static/js/787.7e0b23c5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.545f6bbc.css",
+    "static/js/main.a254d0c7.js"
+  ]
+}
